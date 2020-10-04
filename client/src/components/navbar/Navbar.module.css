@@ -1,0 +1,15 @@
+.container {
+    flexGrow: 1;
+}
+
+.appBar {
+    background-color: #2b3a77 !important;
+}
+
+.exitButton {
+    background-color: rgba(255, 255, 255, 0.3) !important;
+}
+
+.title {
+    flex-grow: 5;
+}

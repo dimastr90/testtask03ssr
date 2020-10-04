@@ -1,0 +1,16 @@
+.top{
+    margin-top: 1em;
+    background-color: #2b3a77;
+    padding: 1em;
+}
+
+.top span{
+    color: white;
+    font-family: "Roboto", serif;
+    font-size: 1.3em;
+}
+
+.container{
+    background-color: white;
+    padding: 1em;
+}

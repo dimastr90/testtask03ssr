@@ -1,0 +1,10 @@
+.image{
+    max-height: 15em;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.card{
+    height: 25em;
+}

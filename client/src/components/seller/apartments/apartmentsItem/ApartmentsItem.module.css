@@ -1,0 +1,16 @@
+.image{
+    max-height: 15em;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.card{
+    height: 25em;
+}
+
+.slots{
+    overflow-y: auto;
+    width: 100%;
+    height: 2em;
+}

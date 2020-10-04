@@ -1,0 +1,18 @@
+.input{
+    width: 100%;
+    margin-bottom: 1em !important;
+}
+
+.addDateButton{
+    width: 100% !important;
+}
+
+.checkedItems li{
+    font-size: 1.2em;
+    font-family: Roboto;
+}
+
+.deleteDateButton{
+    transform: scale(0.7);
+    margin-bottom:0.2em!important;
+}
